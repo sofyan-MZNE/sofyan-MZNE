@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=%5B%2B%5D+Cybersecurity+%26+AI+Student;%5B%2B%5D+Building+secure+intelligent+systems;%5B%2B%5D+Always+learning%2C+always+hacking...)](https://git.io/typing-svg)
@@ -53,10 +51,6 @@ class Sofyan:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sofyan-MZNE&show_icons=true&theme=transparent&bg_color=0a0e1a&border_color=003580&title_color=00aaff&icon_color=00aaff&text_color=99ddff&hide_border=false&rank_icon=github"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=sofyan-MZNE&theme=transparent&background=0a0e1a&border=003580&ring=00aaff&fire=0077dd&currStreakLabel=00aaff&sideLabels=99ddff&dates=556677&stroke=003580"/>
-
-</div>
-
-<div align="center">
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofyan-MZNE&layout=compact&theme=transparent&bg_color=0a0e1a&border_color=003580&title_color=00aaff&text_color=99ddff"/>
 
